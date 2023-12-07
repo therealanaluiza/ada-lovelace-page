@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Ada Lovelace
 
 ## Quem era Ada Lovelace?
